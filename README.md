@@ -15,10 +15,10 @@ git clone https://github.com/KatharinaHoff/StatistikIfuerStudies.git
 ```
 Hier der Vorgang als Bild:
 
-![Clone-Befehl eintippen](img/enter-clone.jpg "Clone-Befehl eintippen")
+![Clone-Befehl eintippen](img/enter_clone.jpg "Clone-Befehl eintippen")
 
 Als Ergebnis sollten Sie etwas sehen, dass so ähnlich wie folgendes Bild aussieht (kann durchaus leicht veränderte Werte anzeigen):
 
-![Erfolgreicher Clone](img/succesful-clone.jpg "Erfolgreicher Clone")
+![Erfolgreicher Clone](img/suggesful-clone.jpg "Erfolgreicher Clone")
 
 ## Update von Material
