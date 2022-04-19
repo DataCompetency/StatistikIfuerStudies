@@ -6,6 +6,6 @@ Bitte beachten Sie die untenstehende Anleitung (bestehend aus "Erstmaliger Downl
 
 Bitte öffnen Sie im "DataSciene+TF" Notebook des JupyterHubs der Universität Greifswald ein Terminal-Fenster:
 
-
+![Terminal Fenster öffnen](img/terminal-finden.jpg "Terminal Fenster öffnen")
 
 ## Update von Material
