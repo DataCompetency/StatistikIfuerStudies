@@ -38,7 +38,7 @@ Anschließend geben Sie das Kommando
 
 ```
 git pull
-``
+```
 ein. Das sieht dann so aus (Enter drücken wieder nicht vergessen):
 
 ![git pull](img/pull.jpg "git pull")
