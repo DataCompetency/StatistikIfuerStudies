@@ -4,7 +4,7 @@ Bitte beachten Sie die untenstehende Anleitung (bestehend aus "Erstmaliger Downl
 
 ## Erstmaliger Download des Materials
 
-Bitte öffnen Sie im "DataSciene+TF" Notebook des JupyterHubs der Universität Greifswald ein Terminal-Fenster (bitte anclicken zum Öffnen):
+Bitte öffnen Sie im "Datascience+TF" Notebook des JupyterHubs der Universität Greifswald ein Terminal-Fenster (bitte anclicken zum Öffnen):
 
 ![Terminal Fenster öffnen](img/terminal-finden.jpg "Terminal Fenster öffnen")
 
@@ -33,3 +33,17 @@ cd StatistikIfuerStudies
 in den Ordner StatistikIfuerStudies wechseln (wieder im Terminal, s.o.). Bildlich sieht das so aus (bitte Enter Drücken am Ende nicht vergessen):
 
 ![Verzeichnis wechseln](img/cd.jpg "Verzeichnis wechseln")
+
+Anschließend geben Sie das Kommando
+
+```
+git pull
+```
+ein. Das sieht dann so aus (Enter drücken wieder nicht vergessen):
+
+![git pull](img/pull.jpg "git pull")
+
+Je nachdem, ob überhaupt ein Update verfügbar ist, kann die Ausgabe auch kürzer/kleiner ausfallen. Aber hiermit haben Sie dann Ihren Ordner erfolgreich synchronisiert.
+
+### In diesem Repository werden grundsätzlich keine Musterlösungen zur Verfügung gestellt.
+
