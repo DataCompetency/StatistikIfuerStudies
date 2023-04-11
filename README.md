@@ -4,7 +4,7 @@ Bitte beachten Sie die untenstehende Anleitung (bestehend aus "Erstmaliger Downl
 
 ## Erstmaliger Download des Materials
 
-Bitte öffnen Sie im "Datascience+TF" Notebook des JupyterHubs der Universität Greifswald ein Terminal-Fenster (bitte anclicken zum Öffnen):
+Bitte öffnen Sie im "Datascience+TF" Notebook des AppHubs der Universität Greifswald ein Terminal-Fenster (bitte anclicken zum Öffnen):
 
 ![Terminal Fenster öffnen](img/terminal-finden.jpg "Terminal Fenster öffnen")
 
@@ -21,7 +21,7 @@ Als Ergebnis sollten Sie etwas sehen, dass so ähnlich wie folgendes Bild aussie
 
 ![Erfolgreicher Clone](img/suggesful-clone.jpg "Erfolgreicher Clone")
 
-Das war's. Sie haben erfolgreich das aktuelle Material zu Statistik I erstmalig in Ihren JupyterHub geladen. Links im Dateibrowser wird mit ein paar Sekunden Zeitverzögerung ein neuer Ordner "StatistikIfuerStudies" auftauchen, in dem Sie die JupyterNotebooks finden.
+Das war's. Sie haben erfolgreich das aktuelle Material zu Statistik I erstmalig in Ihren AppHub geladen. Links im Dateibrowser wird mit ein paar Sekunden Zeitverzögerung ein neuer Ordner "StatistikIfuerStudies" auftauchen, in dem Sie die JupyterNotebooks finden.
 
 ## Update von Material
 
