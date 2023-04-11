@@ -4,7 +4,7 @@ Bitte beachten Sie die untenstehende Anleitung (bestehend aus "Erstmaliger Downl
 
 ## Erstmaliger Download des Materials
 
-Bitte öffnen Sie im "Datascience+TF" Notebook des AppHubs der Universität Greifswald ein Terminal-Fenster (bitte anclicken zum Öffnen):
+Bitte öffnen Sie im "Datascience" Notebook des AppHubs der Universität Greifswald ein Terminal-Fenster (bitte anclicken zum Öffnen):
 
 ![Terminal Fenster öffnen](img/terminal-finden.jpg "Terminal Fenster öffnen")
 
