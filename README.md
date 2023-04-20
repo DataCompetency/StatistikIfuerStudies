@@ -11,11 +11,8 @@ Bitte öffnen Sie im "Datascience" Notebook des AppHubs der Universität Greifsw
 Geben Sie im Terminal folgendes Kommando ein (mit Enter-Taste bestätigen nach dem Eintippen):
 
 ```
-git clone https://github.com/KatharinaHoff/StatistikIfuerStudies.git
+git clone https://github.com/DataCompetency/StatistikIfuerStudies.git
 ```
-Hier der Vorgang als Bild:
-
-![Clone-Befehl eintippen](img/enter_clone.jpg "Clone-Befehl eintippen")
 
 Als Ergebnis sollten Sie etwas sehen, dass so ähnlich wie folgendes Bild aussieht (kann durchaus leicht veränderte Werte anzeigen):
 
